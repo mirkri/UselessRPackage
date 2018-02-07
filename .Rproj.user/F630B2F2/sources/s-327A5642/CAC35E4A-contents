@@ -1,0 +1,3 @@
+library(FirstPackage)
+
+hello(sayTo = "Fabian", num = 2)
